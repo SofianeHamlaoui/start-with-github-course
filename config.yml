@@ -9,7 +9,7 @@ template:
   name: start-with-github
 before:
   - type: createIssue
-    title: Welcome!
+    title: Create An Issue!
     body: new-issue.md
 steps:
   - title: First step
